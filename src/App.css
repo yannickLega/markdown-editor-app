@@ -1,0 +1,42 @@
+body {
+  background-image: url('modern-art-2414036.jpg');
+}
+.container {
+  margin-top: 50px;
+}
+
+.form-control {
+  border: none;
+  background-color: rgba(242, 241, 239, 1) !important;
+  box-shadow: inset 6px 6px 12px lightgrey, 8px 10px 7px rgba(46, 49, 49, 0.5) !important;
+}
+
+.form-control:hover {
+  box-shadow: inset 6px 6px 12px lightgrey, 4px 4px 4px rgba(46, 49, 49, 0.5) !important;
+}
+
+.card {
+  border: none !important;
+  background-color: none !important;
+}
+
+.btn:hover {
+  box-shadow: 0 0.3rem 0.6rem grey inset;
+}
+
+.btn {
+  box-shadow: 0 0.3rem 0.6rem grey inset;
+  text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.7);
+}
+
+#cardResult {
+  border: none;
+  color: white;
+  box-shadow: inset 6px 6px 12px grey, inset -6px -6px 12px rgb(32, 32, 32, 1),
+    8px 10px 8px rgba(46, 49, 49, 0.7) !important;
+  background: #2e3131 !important;
+}
+
+.content {
+  background: #2e3131 !important;
+}
